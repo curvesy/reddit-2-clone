@@ -1,0 +1,7 @@
+{
+ "editor.lineNumbers": "off",
+ "editor.comments.ignoreEmptyLines": false,
+ "prettier.useTabs": true,
+ "workbench.editor.wrapTabs": true,
+ "prettier.proseWrap": "never"
+}
